@@ -1,0 +1,15 @@
+# Chapter Exercises {.unnumbered}
+
+Contributed by André Rupp and his students at the University of Maryland, College Park, here are a list of exercises and answers for each chapter:
+
+- [Chapter 2: Implementation, Design, and Validation of Diagnostic Assessments](../files/DCM_Chapter02.pdf)
+- [Chapter 3: Diagnostic Decision Making with DCMs](../files/DCM_Chapter03.pdf)
+- [Chapter 4: Attribute Specification for DCMs](../files/DCM_Chapter04.pdf)
+- [Chapter 5: The Statistical Nature of DCMs](../files/DCM_Chapter05.pdf)
+- [Chapter 6: The Statistical Structure of Core DCMs](../files/DCM_Chapter06.pdf)
+- [Chapter 7: The LCDM Framework](../files/DCM_Chapter07.pdf)
+- [Chapter 8: Modeling the Attribute Space in DCMs](../files/DCM_Chapter08.pdf)
+- [Chapter 9: Estimating DCMs Using Mplus](../files/DCM_Chapter09.pdf)
+- [Chapter 10: Respondent Parameter Estimation in DCMs](../files/DCM_Chapter10.pdf)
+- [Chapter 11: Item Parameter Estimation in DCMs](../files/DCM_Chapter11.pdf)
+- [Chapter 12: Evaluating the Model Fit of DCMs](../files/DCM_Chapter12.pdf)

@@ -6,12 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="André A. Rupp">
-<meta name="author" content="Jonathan Templin">
-<meta name="author" content="Robert A. Henson">
-<meta name="dcterms.date" content="2026-04-14">
 
-<title>Diagnostic Measurement: Theory, Methods, and Applications</title>
+<title>R Functions for LCDM Estimation – Diagnostic Measurement: Theory, Methods, and Applications</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -27,23 +23,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./chapters/book-reviews.html" rel="next">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-f23ab18612d661d7bd56dbc0c0fd3817.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-7580570a2e354cd56757c689413fca0c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../chapters/sas-macro.html" rel="next">
+<link href="../chapters/estimating-dcms-mplus.html" rel="prev">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-f23ab18612d661d7bd56dbc0c0fd3817.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-7580570a2e354cd56757c689413fca0c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -84,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Welcome</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../chapters/r-functions.html">R Functions for LCDM Estimation</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -99,7 +96,7 @@ ul.task-list li input[type="checkbox"] {
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
-      <a href="./">Diagnostic Measurement: Theory, Methods, and Applications</a> 
+      <a href="../">Diagnostic Measurement: Theory, Methods, and Applications</a> 
         <div class="sidebar-tools-main">
     <a href="https://github.com/jonathantemplin/DCMbook" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
 </div>
@@ -114,43 +111,43 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Welcome</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/book-reviews.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/book-reviews.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Book Reviews</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/chapter-exercises.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/chapter-exercises.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Chapter Exercises</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/estimating-dcms-mplus.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/estimating-dcms-mplus.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Estimating DCMs with Mplus</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/r-functions.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/r-functions.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">R Functions for LCDM Estimation</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/sas-macro.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/sas-macro.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">SAS Macro for LCDM Estimation</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/errata.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/errata.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Errata</span></a>
   </div>
 </li>
@@ -159,47 +156,22 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Table of contents</h2>
-   
-  <ul>
-  <li><a href="#welcome" id="toc-welcome" class="nav-link active" data-scroll-target="#welcome">Welcome</a>
-  <ul class="collapse">
-  <li><a href="#table-of-contents" id="toc-table-of-contents" class="nav-link" data-scroll-target="#table-of-contents">Table of Contents</a></li>
-  <li><a href="#citing-the-book" id="toc-citing-the-book" class="nav-link" data-scroll-target="#citing-the-book">Citing the book</a></li>
-  </ul></li>
-  </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/jonathantemplin/DCMbook/issues/new" class="toc-action"><i class="bi bi-github"></i>Report an issue</a></li></ul></div></nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Diagnostic Measurement: Theory, Methods, and Applications</h1>
-<p class="subtitle lead">Companion website</p>
+<h1 class="title">R Functions for LCDM Estimation</h1>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Authors</div>
-    <div class="quarto-title-meta-contents">
-             <p>André A. Rupp </p>
-             <p>Jonathan Templin </p>
-             <p>Robert A. Henson </p>
-          </div>
-  </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">April 14, 2026</p>
-    </div>
-  </div>
   
     
   </div>
@@ -209,28 +181,16 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="welcome" class="level1 unnumbered">
-<h1 class="unnumbered">Welcome</h1>
-<p><img src="images/cover.jpg" class="img-fluid" alt="Book cover: Diagnostic Measurement: Theory, Methods, and Applications" width="200"></p>
-<p>We welcome you to the website we have created to supplement our book, <em>Diagnostic Measurement: Theory, Methods, and Applications</em>.</p>
-<p>This website is intended to supplement material in the book by providing additional content and updates to the text. When used in concert with the text, we hope the website will be a useful reference for diagnostic measurement in general, and more specifically, diagnostic classification models.</p>
-<p>On the pages of this site you will find more information about our book, additional materials (such as Mplus syntax), and updates to the text due to errors we have made. If you have any questions, please do not hesitate to contact any of the three of us using our contact information.</p>
-<p>Sincerely,</p>
-<p>André, Jonathan, and Robert</p>
-<hr>
-<section id="table-of-contents" class="level2">
-<h2 class="anchored" data-anchor-id="table-of-contents">Table of Contents</h2>
-<p>See the <a href="files/dcmtoc.pdf">book table of contents (PDF)</a>.</p>
-</section>
-<section id="citing-the-book" class="level2">
-<h2 class="anchored" data-anchor-id="citing-the-book">Citing the book</h2>
-<blockquote class="blockquote">
-<p>Rupp, A. A., Templin, J., &amp; Henson, R. A. (2010). <em>Diagnostic measurement: Theory, methods, and applications.</em> New York, NY: Guilford Press.</p>
-</blockquote>
+<p>The R functions are used to build, run, and parse Mplus syntax for estimation of the LCDM. The functions to build the R syntax were created by André Rupp and Oliver Wilhelm, with additions for parsing and computing attribute reliability contributed by Jonathan Templin.</p>
+<ul>
+<li><a href="../files/ch9data.dat">Chapter 9 Example Data (<code>ch9data.dat</code>)</a> — data from Chapter 9 of <em>Diagnostic Measurement: Theory, Methods, and Applications</em></li>
+<li><a href="../files/ch9qmatrix.csv">Chapter 9 Example Q-matrix (<code>ch9qmatrix.csv</code>)</a> — Q-matrix from Chapter 9</li>
+<li><a href="../files/MplusDCM_functions.r">Functions file (<code>MplusDCM_functions.r</code>)</a> — put on hard disk; library of macro functions</li>
+<li><a href="../files/RDCMplus_Example.r">Example file (<code>RDCMplus_Example.r</code>)</a> — example analysis file; relies on the functions file</li>
+</ul>
+<p>The example will run if all files are put into the same folder.</p>
 
 
-</section>
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -652,10 +612,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="../chapters/estimating-dcms-mplus.html" class="pagination-link" aria-label="Estimating DCMs with Mplus">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Estimating DCMs with Mplus</span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./chapters/book-reviews.html" class="pagination-link" aria-label="Book Reviews">
-        <span class="nav-page-text">Book Reviews</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../chapters/sas-macro.html" class="pagination-link" aria-label="SAS Macro for LCDM Estimation">
+        <span class="nav-page-text">SAS Macro for LCDM Estimation</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -664,4 +627,4 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jonathantemplin/DCMbook/issues/new" class="toc-action"><i class="bi bi-github"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions"><ul><li><a href="https://github.com/jonathantemplin/DCMbook/issues/new" class="toc-action"><i class="bi bi-github"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>

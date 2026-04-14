@@ -1,0 +1,10 @@
+# R Functions for LCDM Estimation {.unnumbered}
+
+The R functions are used to build, run, and parse Mplus syntax for estimation of the LCDM. The functions to build the R syntax were created by André Rupp and Oliver Wilhelm, with additions for parsing and computing attribute reliability contributed by Jonathan Templin.
+
+- [Chapter 9 Example Data (`ch9data.dat`)](../files/ch9data.dat) — data from Chapter 9 of *Diagnostic Measurement: Theory, Methods, and Applications*
+- [Chapter 9 Example Q-matrix (`ch9qmatrix.csv`)](../files/ch9qmatrix.csv) — Q-matrix from Chapter 9
+- [Functions file (`MplusDCM_functions.r`)](../files/MplusDCM_functions.r) — put on hard disk; library of macro functions
+- [Example file (`RDCMplus_Example.r`)](../files/RDCMplus_Example.r) — example analysis file; relies on the functions file
+
+The example will run if all files are put into the same folder.

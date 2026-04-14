@@ -1,0 +1,6 @@
+# SAS Macro for LCDM Estimation {.unnumbered}
+
+Macro created in large part by Lesa Hoffman:
+
+- [Example file (`example.sas`)](../files/example.sas) — example analysis file
+- [Macro file (`LCDM_Mplus2.sas`)](../files/LCDM_Mplus2.sas) — put on hard disk; library of macro functions

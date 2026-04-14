@@ -4,19 +4,19 @@
     "href": "index.html",
     "title": "Diagnostic Measurement: Theory, Methods, and Applications",
     "section": "",
-    "text": "Preface\nThis is the companion website for Diagnostic Measurement: Theory, Methods, and Applications (Rupp, Templin, & Henson, 2010), published by Guilford Press.\nThe site collects supplemental materials for the book — example data, code, errata, and references to follow-up methodological work that has appeared since publication.",
+    "text": "Welcome\nWe welcome you to the website we have created to supplement our book, Diagnostic Measurement: Theory, Methods, and Applications.\nThis website is intended to supplement material in the book by providing additional content and updates to the text. When used in concert with the text, we hope the website will be a useful reference for diagnostic measurement in general, and more specifically, diagnostic classification models.\nOn the pages of this site you will find more information about our book, additional materials (such as Mplus syntax), and updates to the text due to errors we have made. If you have any questions, please do not hesitate to contact any of the three of us using our contact information.\nSincerely,\nAndré, Jonathan, and Robert",
     "crumbs": [
-      "Preface"
+      "Welcome"
     ]
   },
   {
-    "objectID": "index.html#how-to-use-this-site",
-    "href": "index.html#how-to-use-this-site",
+    "objectID": "index.html#table-of-contents",
+    "href": "index.html#table-of-contents",
     "title": "Diagnostic Measurement: Theory, Methods, and Applications",
-    "section": "How to use this site",
-    "text": "How to use this site\nEach chapter of the book has a corresponding page here. Where applicable, you will find:\n\nA short summary of the chapter\nExample datasets used in the chapter\nReproducible R code (and Mplus / OpenBUGS where relevant) for the analyses presented\nErrata and clarifications",
+    "section": "Table of Contents",
+    "text": "Table of Contents\nSee the book table of contents (PDF).",
     "crumbs": [
-      "Preface"
+      "Welcome"
     ]
   },
   {
@@ -24,207 +24,89 @@
     "href": "index.html#citing-the-book",
     "title": "Diagnostic Measurement: Theory, Methods, and Applications",
     "section": "Citing the book",
-    "text": "Citing the book\nIf you use materials from the book or this site in your work, please cite:\n\nRupp, A. A., Templin, J., & Henson, R. A. (2010). Diagnostic measurement: Theory, methods, and applications. New York, NY: Guilford Press.",
+    "text": "Citing the book\n\nRupp, A. A., Templin, J., & Henson, R. A. (2010). Diagnostic measurement: Theory, methods, and applications. New York, NY: Guilford Press.",
     "crumbs": [
-      "Preface"
+      "Welcome"
     ]
   },
   {
-    "objectID": "chapters/01-introduction.html",
-    "href": "chapters/01-introduction.html",
-    "title": "1  Introduction to Diagnostic Measurement",
+    "objectID": "chapters/book-reviews.html",
+    "href": "chapters/book-reviews.html",
+    "title": "Book Reviews",
     "section": "",
-    "text": "1.1 Chapter summary\nAdd a short summary of Chapter 1 here.",
+    "text": "International Statistical Review. Hand, D. J. (2011). Book Review. International Statistical Review, 79, 135–136. [link]\nJournal of Educational Measurement. Svetina, D. (2011). Book Review. Journal of Educational Measurement, 48, 223–228. [link]\nPsychometrika. Ünlü, A., & Kiefer, T. (2011). Book review. Psychometrika, 76, 715–716.",
     "crumbs": [
-      "Foundations",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Diagnostic Measurement</span>"
+      "Book Reviews"
     ]
   },
   {
-    "objectID": "chapters/01-introduction.html#supplemental-materials",
-    "href": "chapters/01-introduction.html#supplemental-materials",
-    "title": "1  Introduction to Diagnostic Measurement",
-    "section": "1.2 Supplemental materials",
-    "text": "1.2 Supplemental materials\nDatasets, code, and references for this chapter will be added here.",
-    "crumbs": [
-      "Foundations",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Diagnostic Measurement</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/02-statistical-concepts.html",
-    "href": "chapters/02-statistical-concepts.html",
-    "title": "2  Some Useful Statistical Concepts and Methods",
+    "objectID": "chapters/chapter-exercises.html",
+    "href": "chapters/chapter-exercises.html",
+    "title": "Chapter Exercises",
     "section": "",
-    "text": "2.1 Chapter summary\nAdd a short summary here.",
+    "text": "Contributed by André Rupp and his students at the University of Maryland, College Park, here are a list of exercises and answers for each chapter:\n\nChapter 2: Implementation, Design, and Validation of Diagnostic Assessments\nChapter 3: Diagnostic Decision Making with DCMs\nChapter 4: Attribute Specification for DCMs\nChapter 5: The Statistical Nature of DCMs\nChapter 6: The Statistical Structure of Core DCMs\nChapter 7: The LCDM Framework\nChapter 8: Modeling the Attribute Space in DCMs\nChapter 9: Estimating DCMs Using Mplus\nChapter 10: Respondent Parameter Estimation in DCMs\nChapter 11: Item Parameter Estimation in DCMs\nChapter 12: Evaluating the Model Fit of DCMs",
     "crumbs": [
-      "Foundations",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Some Useful Statistical Concepts and Methods</span>"
+      "Chapter Exercises"
     ]
   },
   {
-    "objectID": "chapters/02-statistical-concepts.html#supplemental-materials",
-    "href": "chapters/02-statistical-concepts.html#supplemental-materials",
-    "title": "2  Some Useful Statistical Concepts and Methods",
-    "section": "2.2 Supplemental materials",
-    "text": "2.2 Supplemental materials\nDatasets, code, and references for this chapter will be added here.",
-    "crumbs": [
-      "Foundations",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Some Useful Statistical Concepts and Methods</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/03-latent-variable-modeling.html",
-    "href": "chapters/03-latent-variable-modeling.html",
-    "title": "3  Latent Variable Modeling: An Overview",
+    "objectID": "chapters/estimating-dcms-mplus.html",
+    "href": "chapters/estimating-dcms-mplus.html",
+    "title": "Estimating DCMs with Mplus",
     "section": "",
-    "text": "3.1 Chapter summary\nAdd a short summary here.",
+    "text": "Data, Input, and Output from Chapter 9",
     "crumbs": [
-      "Foundations",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Latent Variable Modeling: An Overview</span>"
+      "Estimating DCMs with Mplus"
     ]
   },
   {
-    "objectID": "chapters/03-latent-variable-modeling.html#supplemental-materials",
-    "href": "chapters/03-latent-variable-modeling.html#supplemental-materials",
-    "title": "3  Latent Variable Modeling: An Overview",
-    "section": "3.2 Supplemental materials",
-    "text": "3.2 Supplemental materials\nDatasets, code, and references for this chapter will be added here.",
-    "crumbs": [
-      "Foundations",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Latent Variable Modeling: An Overview</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/04-lcdm-and-dcms.html",
-    "href": "chapters/04-lcdm-and-dcms.html",
-    "title": "4  The LCDM and Other Diagnostic Classification Models",
+    "objectID": "chapters/estimating-dcms-mplus.html#data-input-and-output-from-chapter-9",
+    "href": "chapters/estimating-dcms-mplus.html#data-input-and-output-from-chapter-9",
+    "title": "Estimating DCMs with Mplus",
     "section": "",
-    "text": "4.1 Chapter summary\nAdd a short summary here.",
+    "text": "Mplus Example #9.1 — Latent Class Analysis\n\nData file (ch9data.dat)\nMplus syntax file (ex9.1.inp)\nMplus output file (ex9.1.out)\nRespondent estimates file (respondent_ex9.1.dat)\n\n\n\nMplus Example #9.2 — Log-linear Cognitive Diagnosis Model Analysis: Saturated Structural Model\n\nData file (ch9data.dat)\nMplus syntax file (ex9.2.inp)\nMplus output file (ex9.2.out)\nRespondent estimates file (respondent_ex9.2.dat)\n\n\n\nMplus Example #9.3 — Log-linear Cognitive Diagnosis Model Analysis: Log-linear Saturated Structural Model (Equivalent to Saturated Structural Model in Example #9.2)\n\nData file (ch9data.dat)\nMplus syntax file (ex9.3.inp)\nMplus output file (ex9.3.out)\nRespondent estimates file (respondent_ex9.3.dat)\n\n\n\nMplus Example #9.4 — Log-linear Cognitive Diagnosis Model Analysis: Log-linear Structural Model without Three-way Interaction\n\nData file (ch9data.dat)\nMplus syntax file (ex9.4.inp)\nMplus output file (ex9.4.out)\nRespondent estimates file (respondent_ex9.4.dat)",
     "crumbs": [
-      "Diagnostic Classification Models",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>The LCDM and Other Diagnostic Classification Models</span>"
+      "Estimating DCMs with Mplus"
     ]
   },
   {
-    "objectID": "chapters/04-lcdm-and-dcms.html#supplemental-materials",
-    "href": "chapters/04-lcdm-and-dcms.html#supplemental-materials",
-    "title": "4  The LCDM and Other Diagnostic Classification Models",
-    "section": "4.2 Supplemental materials",
-    "text": "4.2 Supplemental materials\nDatasets, code, and references for this chapter will be added here.",
+    "objectID": "chapters/estimating-dcms-mplus.html#macros-and-functions-to-automate-estimation-with-mplus",
+    "href": "chapters/estimating-dcms-mplus.html#macros-and-functions-to-automate-estimation-with-mplus",
+    "title": "Estimating DCMs with Mplus",
+    "section": "Macros and Functions to Automate Estimation with Mplus",
+    "text": "Macros and Functions to Automate Estimation with Mplus\n\nSAS macro\nR functions",
     "crumbs": [
-      "Diagnostic Classification Models",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>The LCDM and Other Diagnostic Classification Models</span>"
+      "Estimating DCMs with Mplus"
     ]
   },
   {
-    "objectID": "chapters/05-model-estimation.html",
-    "href": "chapters/05-model-estimation.html",
-    "title": "5  Model Estimation",
+    "objectID": "chapters/r-functions.html",
+    "href": "chapters/r-functions.html",
+    "title": "R Functions for LCDM Estimation",
     "section": "",
-    "text": "5.1 Chapter summary\nAdd a short summary here.",
+    "text": "The R functions are used to build, run, and parse Mplus syntax for estimation of the LCDM. The functions to build the R syntax were created by André Rupp and Oliver Wilhelm, with additions for parsing and computing attribute reliability contributed by Jonathan Templin.\n\nChapter 9 Example Data (ch9data.dat) — data from Chapter 9 of Diagnostic Measurement: Theory, Methods, and Applications\nChapter 9 Example Q-matrix (ch9qmatrix.csv) — Q-matrix from Chapter 9\nFunctions file (MplusDCM_functions.r) — put on hard disk; library of macro functions\nExample file (RDCMplus_Example.r) — example analysis file; relies on the functions file\n\nThe example will run if all files are put into the same folder.",
     "crumbs": [
-      "Diagnostic Classification Models",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Model Estimation</span>"
+      "R Functions for LCDM Estimation"
     ]
   },
   {
-    "objectID": "chapters/05-model-estimation.html#supplemental-materials",
-    "href": "chapters/05-model-estimation.html#supplemental-materials",
-    "title": "5  Model Estimation",
-    "section": "5.2 Supplemental materials",
-    "text": "5.2 Supplemental materials\nDatasets, code, and references for this chapter will be added here.",
-    "crumbs": [
-      "Diagnostic Classification Models",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Model Estimation</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/06-model-evaluation.html",
-    "href": "chapters/06-model-evaluation.html",
-    "title": "6  Model Evaluation and Fit",
+    "objectID": "chapters/sas-macro.html",
+    "href": "chapters/sas-macro.html",
+    "title": "SAS Macro for LCDM Estimation",
     "section": "",
-    "text": "6.1 Chapter summary\nAdd a short summary here.",
+    "text": "Macro created in large part by Lesa Hoffman:\n\nExample file (example.sas) — example analysis file\nMacro file (LCDM_Mplus2.sas) — put on hard disk; library of macro functions",
     "crumbs": [
-      "Diagnostic Classification Models",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Model Evaluation and Fit</span>"
+      "SAS Macro for LCDM Estimation"
     ]
   },
   {
-    "objectID": "chapters/06-model-evaluation.html#supplemental-materials",
-    "href": "chapters/06-model-evaluation.html#supplemental-materials",
-    "title": "6  Model Evaluation and Fit",
-    "section": "6.2 Supplemental materials",
-    "text": "6.2 Supplemental materials\nDatasets, code, and references for this chapter will be added here.",
-    "crumbs": [
-      "Diagnostic Classification Models",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Model Evaluation and Fit</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/07-test-design.html",
-    "href": "chapters/07-test-design.html",
-    "title": "7  Test Design and Item Construction",
+    "objectID": "chapters/errata.html",
+    "href": "chapters/errata.html",
+    "title": "Errata",
     "section": "",
-    "text": "7.1 Chapter summary\nAdd a short summary here.",
+    "text": "Please report all errata to Jonathan Templin. We offer our apologies for all errata in the text, for which we are fully responsible. We would also like to thank everyone who has taken the time to alert us to our mistakes in the text.\n\n\n\n\n\n\n\n\n\nPage\nLocation\nText Appears As\nText Should Read\n\n\n\n\n17\nFigure 2.2\nTop right figure appears as “-”\nTop right figure should appear as “+”\n\n\n17\nFigure 2.3\nAddition/Subtraction top right figure appears as “-”\nAddition/Subtraction top right figure should appear as “+”\n\n\n61\nTable 4.9\nTypo: Title reads “Attribute Profiles for Attribute Hierarchy in Figure 4.9”\nCorrection: Title should read “Attribute Profiles for Attribute Hierarchy in Figure 4.2”\n\n\n63\nTable 4.10\nTypo: Title reads “Attribute Profiles for Attribute Hierarchy in Figure 4.9”\nCorrection: Title should read “Attribute Profiles for Attribute Hierarchy in Figure 4.2”\n\n\n63\nTable 4.11\nTypo: Title reads “Attribute Profiles for Attribute Hierarchy in Figure 4.9”\nCorrection: Title should read “Attribute Profiles for Attribute Hierarchy in Figure 4.2”\n\n\n89\nFigure 5.1\nCaption reads: “This figure shows two models with two latent variables…”\nCaption should read: “This figure shows two models each with one latent variable…”\n\n\n89\nLine 7\nTypo: “nine Items”\nCorrection: “nine items”\n\n\n99\nLine 2\nTypo: “fulfils”\nCorrection (American English): “fulfills”\n\n\n101\nLine 14\nTypo (added word): “…is its two…”\nCorrection: “…is two…”\n\n\n102\nLine 7\nIncorrect Reference Year: “Unlu, 1999”\nCorrection: “Unlu, 2006”\n\n\n113\nLine 5 of Section 6.1\nTypo (added word): “…will first present…”\nCorrection: “…will present…”\n\n\n127\nTable 6.8 (column for Item 3)\nTypo: Equation uses  (throughout column)\nCorrection: Equation should use  (throughout column)\n\n\n128\n14\nTypo: in-line text for parameter reads \nCorrection: in-line text for parameter should read \n\n\n130\nTable 6.9 (column for Item 3)\nTypo: Equation uses  (throughout column)\nCorrection: Equation should use  (throughout column)\n\n\n132\nLine 20\nWrong definition: “…Attribute 3 (”The respondent has gambled with money that he or she intended to spend on something else.”)”\nCorrection: “…Attribute 3 (“The respondent has lost relationships because of his or her gambling.”)”\n\n\n132\nLine 25\nWrong definition: “…gambling, spent money for gambling that was intended for something else…”\nCorrection: “…gambling, lost relationships due to gambling…”\n\n\n152\nLine 2 after Equation 7.2\nTypo: “… is the main effect parameter associated with Attribute 2…”\nCorrection: “… is the main effect parameter associated with Attribute 2…”\n\n\n153\nLine 4\nTypo: “… main effects ”\nCorrection: “… main effects ”\n\n\n156\nLine 4\nTypo: “…main effects and intercept parameters…”\nCorrection: “…main effects and interaction parameters…”\n\n\n156\nEquation 7.7\nTypo: wrong limits on second sum on right hand side - \nCorrection: \n\n\n159\nTable 7.7 note\nTypo: “…guessing parameter; slipping parameter.”\nCorrection: “…guessing parameter; , slipping parameter.”\n\n\n163\nTable 7.9, Equations 2, 3, 4\nTypo: wrong subscript on intercept \nCorrection: \n\n\n175\nLine 3 after Equation 8.2\nTypo: “…is the a-way interaction effect parameter…”\nCorrection: “…is the A-way interaction effect parameter…”\n\n\n175\nLine 8 after Equation 8.2\nTypo: “…it is a log-linear for the latent…”\nCorrection: “…it is a log-linear model for the latent…”\n\n\n176\nLine 30\nTypo: wrong symbol for structural parameter \nCorrection: \n\n\n187\nTable 8.7; Tau vector, 8th row\nTypo: .44\nCorrection: 1.44\n\n\n188\nTable 8.8\nLog-linear one-way model number of attributes: 2A\nLog-linear one-way model number of attributes: A\n\n\n189\nLine 24\nTypo: “…or the BAC…”\nCorrection: “…or the BIC…”\n\n\n197\nLine 4 of Section 9.3.2\nTypo: “…CDM Analysis A for Chapter 9.”\nCorrection: “…LCDM Analysis A for Chapter 9.”\n\n\n207\nLine 2\nTypo: “…in Figure 9.8…”\nCorrection: “…in Table 9.6…”\n\n\n209\nLine 5\nTypo: “…the label for the intercept…”\nCorrection: “…the label for the intercept and main effect…”\n\n\n210\nLine 4\nTypo: “…Attribute 1, and l9_12 for Attribute 2…”\nCorrection: “…Attribute 1, and l4_12 for Attribute 2…”\n\n\n210\nItem 4 Syntax, Lines 3 and 4\nTypo: l4_11 and l4_12 are on incorrect lines\nCorrection: Equation for t4_2 should be “-(l4_0+l4_12);”, Equation for t4_3 should be “-(l4_0+l4_11);”\n\n\n217\nLine 15\nMissing negative sign\nCorrection: Equation should read “…exp(-2.437)/(1+exp(-2.437)) = .08”\n\n\n222\nLine 4 of Section 9.8.2\nTypo: “It is…”\nCorrection: “…the label for the intercept and main effect…”\n\n\n224\nLine 3\nTypo: “…DINO model…”\nCorrection: “…DINA model…”\n\n\n224\nLine 6\nTypo: “…DINO model…”\nCorrection: “…DINA model…”\n\n\n235\nLine 14\nTypo: “…Equation 10.2…”\nCorrection: “…Equation 10.3…”\n\n\n238\nLine 9\nTypo: “…Equation 10.2…”\nCorrection: “…Equation 10.3…”\n\n\n243\nLine 6\nTypo: \nCorrection:  = 0.50\n\n\n261\nLine 8\nTypo: \nCorrection: \n\n\n262\nLine 12\nTypo: “Similar…”\nCorrection: “Similarly…”\n\n\n303\nLine 16\nTypo: “Table 13.15”\nCorrection: “Table 13.16”\n\n\n304\nTitle of Table 13.17\nTypo: \nCorrection: \n\n\n334\nMissing reference\n\nHenson, R., & Douglas, J. (2005). Test construction for cognitive diagnosis. Applied Psychological Measurement, 29, 262-277.",
     "crumbs": [
-      "Applications",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Test Design and Item Construction</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/07-test-design.html#supplemental-materials",
-    "href": "chapters/07-test-design.html#supplemental-materials",
-    "title": "7  Test Design and Item Construction",
-    "section": "7.2 Supplemental materials",
-    "text": "7.2 Supplemental materials\nDatasets, code, and references for this chapter will be added here.",
-    "crumbs": [
-      "Applications",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Test Design and Item Construction</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/08-applications.html",
-    "href": "chapters/08-applications.html",
-    "title": "8  Applications and Case Studies",
-    "section": "",
-    "text": "8.1 Chapter summary\nAdd a short summary here.",
-    "crumbs": [
-      "Applications",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Applications and Case Studies</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/08-applications.html#supplemental-materials",
-    "href": "chapters/08-applications.html#supplemental-materials",
-    "title": "8  Applications and Case Studies",
-    "section": "8.2 Supplemental materials",
-    "text": "8.2 Supplemental materials\nDatasets, code, and references for this chapter will be added here.",
-    "crumbs": [
-      "Applications",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Applications and Case Studies</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/09-future-directions.html",
-    "href": "chapters/09-future-directions.html",
-    "title": "9  Future Directions",
-    "section": "",
-    "text": "9.1 Chapter summary\nAdd a short summary here.",
-    "crumbs": [
-      "Applications",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Future Directions</span>"
-    ]
-  },
-  {
-    "objectID": "chapters/09-future-directions.html#supplemental-materials",
-    "href": "chapters/09-future-directions.html#supplemental-materials",
-    "title": "9  Future Directions",
-    "section": "9.2 Supplemental materials",
-    "text": "9.2 Supplemental materials\nDatasets, code, and references for this chapter will be added here.",
-    "crumbs": [
-      "Applications",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Future Directions</span>"
+      "Errata"
     ]
   }
 ]

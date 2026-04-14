@@ -1,0 +1,36 @@
+# Estimating DCMs with Mplus {.unnumbered}
+
+## Data, Input, and Output from Chapter 9
+
+### Mplus Example #9.1 — Latent Class Analysis
+
+- [Data file (`ch9data.dat`)](../files/ch9data.dat)
+- [Mplus syntax file (`ex9.1.inp`)](../files/ex9.1.inp)
+- [Mplus output file (`ex9.1.out`)](../files/ex9.1.out)
+- [Respondent estimates file (`respondent_ex9.1.dat`)](../files/respondent_ex9.1.dat)
+
+### Mplus Example #9.2 — Log-linear Cognitive Diagnosis Model Analysis: Saturated Structural Model
+
+- [Data file (`ch9data.dat`)](../files/ch9data.dat)
+- [Mplus syntax file (`ex9.2.inp`)](../files/ex9.2.inp)
+- [Mplus output file (`ex9.2.out`)](../files/ex9.2.out)
+- [Respondent estimates file (`respondent_ex9.2.dat`)](../files/respondent_ex9.2.dat)
+
+### Mplus Example #9.3 — Log-linear Cognitive Diagnosis Model Analysis: Log-linear Saturated Structural Model (Equivalent to Saturated Structural Model in Example #9.2)
+
+- [Data file (`ch9data.dat`)](../files/ch9data.dat)
+- [Mplus syntax file (`ex9.3.inp`)](../files/ex9.3.inp)
+- [Mplus output file (`ex9.3.out`)](../files/ex9.3.out)
+- [Respondent estimates file (`respondent_ex9.3.dat`)](../files/respondent_ex9.3.dat)
+
+### Mplus Example #9.4 — Log-linear Cognitive Diagnosis Model Analysis: Log-linear Structural Model without Three-way Interaction
+
+- [Data file (`ch9data.dat`)](../files/ch9data.dat)
+- [Mplus syntax file (`ex9.4.inp`)](../files/ex9.4.inp)
+- [Mplus output file (`ex9.4.out`)](../files/ex9.4.out)
+- [Respondent estimates file (`respondent_ex9.4.dat`)](../files/respondent_ex9.4.dat)
+
+## Macros and Functions to Automate Estimation with Mplus
+
+- [SAS macro](sas-macro.qmd)
+- [R functions](r-functions.qmd)

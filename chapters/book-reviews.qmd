@@ -1,0 +1,5 @@
+# Book Reviews {.unnumbered}
+
+- **International Statistical Review.** Hand, D. J. (2011). Book Review. *International Statistical Review, 79,* 135–136. [[link]](http://onlinelibrary.wiley.com/doi/10.1111/j.1751-5823.2011.00134_21.x/abstract)
+- **Journal of Educational Measurement.** Svetina, D. (2011). Book Review. *Journal of Educational Measurement, 48,* 223–228. [[link]](http://onlinelibrary.wiley.com/doi/10.1111/j.1745-3984.2011.00141.x/abstract)
+- **Psychometrika.** Ünlü, A., & Kiefer, T. (2011). Book review. *Psychometrika, 76,* 715–716.

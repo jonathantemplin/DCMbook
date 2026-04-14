@@ -1,24 +1,23 @@
-# Preface {.unnumbered}
+# Welcome {.unnumbered}
 
-This is the companion website for *Diagnostic Measurement: Theory, Methods, and Applications* (Rupp, Templin, & Henson, 2010), published by Guilford Press.
+![](images/cover.jpg){fig-alt="Book cover: Diagnostic Measurement: Theory, Methods, and Applications" width="200"}
 
-The site collects supplemental materials for the book — example data, code, errata, and references to follow-up methodological work that has appeared since publication.
+We welcome you to the website we have created to supplement our book, *Diagnostic Measurement: Theory, Methods, and Applications*.
 
-::: {.callout-note}
-This site is under active development. Chapter pages are currently stubs and will be populated over time. To suggest a correction or addition, please [open an issue](https://github.com/jonathantemplin/DCMbook/issues).
-:::
+This website is intended to supplement material in the book by providing additional content and updates to the text. When used in concert with the text, we hope the website will be a useful reference for diagnostic measurement in general, and more specifically, diagnostic classification models.
 
-## How to use this site
+On the pages of this site you will find more information about our book, additional materials (such as Mplus syntax), and updates to the text due to errors we have made. If you have any questions, please do not hesitate to contact any of the three of us using our contact information.
 
-Each chapter of the book has a corresponding page here. Where applicable, you will find:
+Sincerely,
 
-- A short summary of the chapter
-- Example datasets used in the chapter
-- Reproducible R code (and Mplus / OpenBUGS where relevant) for the analyses presented
-- Errata and clarifications
+André, Jonathan, and Robert
+
+---
+
+## Table of Contents
+
+See the [book table of contents (PDF)](files/dcmtoc.pdf).
 
 ## Citing the book
-
-If you use materials from the book or this site in your work, please cite:
 
 > Rupp, A. A., Templin, J., & Henson, R. A. (2010). *Diagnostic measurement: Theory, methods, and applications.* New York, NY: Guilford Press.
