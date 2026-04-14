@@ -1,0 +1,13 @@
+# Applications and Case Studies
+
+::: {.callout-note}
+This chapter page is a placeholder. Update the title (if needed to match the published chapter exactly) and add summary, examples, and supplemental materials here.
+:::
+
+## Chapter summary
+
+*Add a short summary here.*
+
+## Supplemental materials
+
+*Datasets, code, and references for this chapter will be added here.*

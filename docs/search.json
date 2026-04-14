@@ -1,0 +1,230 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Diagnostic Measurement: Theory, Methods, and Applications",
+    "section": "",
+    "text": "Preface\nThis is the companion website for Diagnostic Measurement: Theory, Methods, and Applications (Rupp, Templin, & Henson, 2010), published by Guilford Press.\nThe site collects supplemental materials for the book — example data, code, errata, and references to follow-up methodological work that has appeared since publication.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use-this-site",
+    "href": "index.html#how-to-use-this-site",
+    "title": "Diagnostic Measurement: Theory, Methods, and Applications",
+    "section": "How to use this site",
+    "text": "How to use this site\nEach chapter of the book has a corresponding page here. Where applicable, you will find:\n\nA short summary of the chapter\nExample datasets used in the chapter\nReproducible R code (and Mplus / OpenBUGS where relevant) for the analyses presented\nErrata and clarifications",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#citing-the-book",
+    "href": "index.html#citing-the-book",
+    "title": "Diagnostic Measurement: Theory, Methods, and Applications",
+    "section": "Citing the book",
+    "text": "Citing the book\nIf you use materials from the book or this site in your work, please cite:\n\nRupp, A. A., Templin, J., & Henson, R. A. (2010). Diagnostic measurement: Theory, methods, and applications. New York, NY: Guilford Press.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "chapters/01-introduction.html",
+    "href": "chapters/01-introduction.html",
+    "title": "1  Introduction to Diagnostic Measurement",
+    "section": "",
+    "text": "1.1 Chapter summary\nAdd a short summary of Chapter 1 here.",
+    "crumbs": [
+      "Foundations",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Diagnostic Measurement</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-introduction.html#supplemental-materials",
+    "href": "chapters/01-introduction.html#supplemental-materials",
+    "title": "1  Introduction to Diagnostic Measurement",
+    "section": "1.2 Supplemental materials",
+    "text": "1.2 Supplemental materials\nDatasets, code, and references for this chapter will be added here.",
+    "crumbs": [
+      "Foundations",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Diagnostic Measurement</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-statistical-concepts.html",
+    "href": "chapters/02-statistical-concepts.html",
+    "title": "2  Some Useful Statistical Concepts and Methods",
+    "section": "",
+    "text": "2.1 Chapter summary\nAdd a short summary here.",
+    "crumbs": [
+      "Foundations",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Some Useful Statistical Concepts and Methods</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-statistical-concepts.html#supplemental-materials",
+    "href": "chapters/02-statistical-concepts.html#supplemental-materials",
+    "title": "2  Some Useful Statistical Concepts and Methods",
+    "section": "2.2 Supplemental materials",
+    "text": "2.2 Supplemental materials\nDatasets, code, and references for this chapter will be added here.",
+    "crumbs": [
+      "Foundations",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Some Useful Statistical Concepts and Methods</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/03-latent-variable-modeling.html",
+    "href": "chapters/03-latent-variable-modeling.html",
+    "title": "3  Latent Variable Modeling: An Overview",
+    "section": "",
+    "text": "3.1 Chapter summary\nAdd a short summary here.",
+    "crumbs": [
+      "Foundations",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Latent Variable Modeling: An Overview</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/03-latent-variable-modeling.html#supplemental-materials",
+    "href": "chapters/03-latent-variable-modeling.html#supplemental-materials",
+    "title": "3  Latent Variable Modeling: An Overview",
+    "section": "3.2 Supplemental materials",
+    "text": "3.2 Supplemental materials\nDatasets, code, and references for this chapter will be added here.",
+    "crumbs": [
+      "Foundations",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Latent Variable Modeling: An Overview</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/04-lcdm-and-dcms.html",
+    "href": "chapters/04-lcdm-and-dcms.html",
+    "title": "4  The LCDM and Other Diagnostic Classification Models",
+    "section": "",
+    "text": "4.1 Chapter summary\nAdd a short summary here.",
+    "crumbs": [
+      "Diagnostic Classification Models",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>The LCDM and Other Diagnostic Classification Models</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/04-lcdm-and-dcms.html#supplemental-materials",
+    "href": "chapters/04-lcdm-and-dcms.html#supplemental-materials",
+    "title": "4  The LCDM and Other Diagnostic Classification Models",
+    "section": "4.2 Supplemental materials",
+    "text": "4.2 Supplemental materials\nDatasets, code, and references for this chapter will be added here.",
+    "crumbs": [
+      "Diagnostic Classification Models",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>The LCDM and Other Diagnostic Classification Models</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/05-model-estimation.html",
+    "href": "chapters/05-model-estimation.html",
+    "title": "5  Model Estimation",
+    "section": "",
+    "text": "5.1 Chapter summary\nAdd a short summary here.",
+    "crumbs": [
+      "Diagnostic Classification Models",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Model Estimation</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/05-model-estimation.html#supplemental-materials",
+    "href": "chapters/05-model-estimation.html#supplemental-materials",
+    "title": "5  Model Estimation",
+    "section": "5.2 Supplemental materials",
+    "text": "5.2 Supplemental materials\nDatasets, code, and references for this chapter will be added here.",
+    "crumbs": [
+      "Diagnostic Classification Models",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Model Estimation</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/06-model-evaluation.html",
+    "href": "chapters/06-model-evaluation.html",
+    "title": "6  Model Evaluation and Fit",
+    "section": "",
+    "text": "6.1 Chapter summary\nAdd a short summary here.",
+    "crumbs": [
+      "Diagnostic Classification Models",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Model Evaluation and Fit</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/06-model-evaluation.html#supplemental-materials",
+    "href": "chapters/06-model-evaluation.html#supplemental-materials",
+    "title": "6  Model Evaluation and Fit",
+    "section": "6.2 Supplemental materials",
+    "text": "6.2 Supplemental materials\nDatasets, code, and references for this chapter will be added here.",
+    "crumbs": [
+      "Diagnostic Classification Models",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Model Evaluation and Fit</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/07-test-design.html",
+    "href": "chapters/07-test-design.html",
+    "title": "7  Test Design and Item Construction",
+    "section": "",
+    "text": "7.1 Chapter summary\nAdd a short summary here.",
+    "crumbs": [
+      "Applications",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Test Design and Item Construction</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/07-test-design.html#supplemental-materials",
+    "href": "chapters/07-test-design.html#supplemental-materials",
+    "title": "7  Test Design and Item Construction",
+    "section": "7.2 Supplemental materials",
+    "text": "7.2 Supplemental materials\nDatasets, code, and references for this chapter will be added here.",
+    "crumbs": [
+      "Applications",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Test Design and Item Construction</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/08-applications.html",
+    "href": "chapters/08-applications.html",
+    "title": "8  Applications and Case Studies",
+    "section": "",
+    "text": "8.1 Chapter summary\nAdd a short summary here.",
+    "crumbs": [
+      "Applications",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Applications and Case Studies</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/08-applications.html#supplemental-materials",
+    "href": "chapters/08-applications.html#supplemental-materials",
+    "title": "8  Applications and Case Studies",
+    "section": "8.2 Supplemental materials",
+    "text": "8.2 Supplemental materials\nDatasets, code, and references for this chapter will be added here.",
+    "crumbs": [
+      "Applications",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Applications and Case Studies</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/09-future-directions.html",
+    "href": "chapters/09-future-directions.html",
+    "title": "9  Future Directions",
+    "section": "",
+    "text": "9.1 Chapter summary\nAdd a short summary here.",
+    "crumbs": [
+      "Applications",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Future Directions</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/09-future-directions.html#supplemental-materials",
+    "href": "chapters/09-future-directions.html#supplemental-materials",
+    "title": "9  Future Directions",
+    "section": "9.2 Supplemental materials",
+    "text": "9.2 Supplemental materials\nDatasets, code, and references for this chapter will be added here.",
+    "crumbs": [
+      "Applications",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Future Directions</span>"
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+# Preface {.unnumbered}
+
+This is the companion website for *Diagnostic Measurement: Theory, Methods, and Applications* (Rupp, Templin, & Henson, 2010), published by Guilford Press.
+
+The site collects supplemental materials for the book — example data, code, errata, and references to follow-up methodological work that has appeared since publication.
+
+::: {.callout-note}
+This site is under active development. Chapter pages are currently stubs and will be populated over time. To suggest a correction or addition, please [open an issue](https://github.com/jonathantemplin/DCMbook/issues).
+:::
+
+## How to use this site
+
+Each chapter of the book has a corresponding page here. Where applicable, you will find:
+
+- A short summary of the chapter
+- Example datasets used in the chapter
+- Reproducible R code (and Mplus / OpenBUGS where relevant) for the analyses presented
+- Errata and clarifications
+
+## Citing the book
+
+If you use materials from the book or this site in your work, please cite:
+
+> Rupp, A. A., Templin, J., & Henson, R. A. (2010). *Diagnostic measurement: Theory, methods, and applications.* New York, NY: Guilford Press.

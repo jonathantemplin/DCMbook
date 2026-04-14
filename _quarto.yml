@@ -1,0 +1,41 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Diagnostic Measurement: Theory, Methods, and Applications"
+  subtitle: "Companion website"
+  author:
+    - "André A. Rupp"
+    - "Jonathan Templin"
+    - "Robert A. Henson"
+  date: today
+  repo-url: https://github.com/jonathantemplin/DCMbook
+  repo-actions: [issue]
+  page-navigation: true
+  search: true
+  chapters:
+    - index.qmd
+    - part: "Foundations"
+      chapters:
+        - chapters/01-introduction.qmd
+        - chapters/02-statistical-concepts.qmd
+        - chapters/03-latent-variable-modeling.qmd
+    - part: "Diagnostic Classification Models"
+      chapters:
+        - chapters/04-lcdm-and-dcms.qmd
+        - chapters/05-model-estimation.qmd
+        - chapters/06-model-evaluation.qmd
+    - part: "Applications"
+      chapters:
+        - chapters/07-test-design.qmd
+        - chapters/08-applications.qmd
+        - chapters/09-future-directions.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    toc: true
